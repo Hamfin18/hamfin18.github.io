@@ -1,0 +1,130 @@
+
+.carousel-item{
+
+	
+	height: 400px;	
+	width: 100%
+	
+}
+
+.navbar{
+
+	background-color: #e06158;
+	opacity: 95%;
+}
+
+#button1{
+	background-color: #bd4e46;
+	color: white;
+	border-color: white;
+
+}
+
+
+.navbar ul a :hover{
+
+		color: white;
+}
+#button1:hover{
+
+	background-color: #f27168;
+}
+
+#all{
+
+	background-color: #f0bc69;
+}
+.test{
+	background-color:  #e06158;
+}
+
+#bg1{
+
+	background-color: #e06158; /*WARNA PINK*/
+
+}
+#bg11{
+
+
+	background-color: #e06158;	/*WARNA PINK*/
+}
+#bg2{
+	background-color: #73f585; /*WARNA IJO*/
+}
+
+
+#bg1 :hover{
+
+	background-color:  #f27168;
+	border-radius: 100px;
+	
+}
+
+#cardpic{
+	height:200px; 
+	width: 420px;
+
+}
+#terbaru{
+
+	color: white;
+	background-color: #e06158;
+	border-radius: 100px;
+}
+
+#abarang a{
+	text-decoration: none;
+	color: inherit;
+}
+
+.pinggir{
+	height:50%;
+}
+
+.konten{
+	border-radius: 35px;
+}
+
+.futer{
+	border-radius: 20px;
+}
+
+
+.icon{
+
+	height:100px; 
+	width:100px;
+}
+
+.gg{
+
+	height: 80px;
+	width: 80px;
+	padding: 10px;
+}
+
+.pictop{
+
+	height: 400px;
+	width: 700px;
+}
+
+.putih1 span{
+	color: white;
+}
+.futer2{
+
+	background-color: dark;
+	border-radius: 40px;
+}
+
+.futer2 :hover{
+	background-color:#607065 ;/* BACKGROUND HOVER YANG FOOOTER*/
+	border-radius: 40px;
+}
+
+.navbar ul li a :hover{
+
+			color: black;
+		
+}
